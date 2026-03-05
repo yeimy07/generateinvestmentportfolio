@@ -5,5 +5,5 @@ import PortfolioAnalyzer from './portfolio-analyzer.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <PortfolioAnalyzer />
-  </React.StrictMode>,
+  </React.StrictMode>
 )
